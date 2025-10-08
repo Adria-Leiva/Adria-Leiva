@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Actualmente soy un estudiante de un Ciclo formativo Superior en Desarrollo de Aplicaciones Multiplataforma. </p>
+<p align="left">Actualmente soy estudiante de 2º año de un Ciclo formativo Superior en Desarrollo de Aplicaciones Multiplataforma. </p>
 
 ###
 
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
 
-<h3 align="left">Contáctame En:</h3>
+<h3 align="left">Contacto:</h3>
 <a href="mailto:adrialm2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
