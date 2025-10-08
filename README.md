@@ -25,6 +25,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)-->
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
+git
 
 <h3 align="left">Bases de Datos</h3>
 
