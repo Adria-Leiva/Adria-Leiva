@@ -26,7 +26,7 @@
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)-->
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
-git
+
 
 <h3 align="left">Bases de Datos</h3>
 
@@ -41,6 +41,6 @@ git
 <a href="mailto:adrialm2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
-<a href="www.linkedin.com/in/adrià-leiva-amposta-8a5898211/" target="_blank">
+<a href="https://www.linkedin.com/in/adrià-leiva-amposta-8a5898211/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
 </a>
