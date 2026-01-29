@@ -16,8 +16,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c%23&logoColor=purple)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=thymeleaf&logoColor=white)
+
 
 
 
@@ -31,6 +30,8 @@
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)-->
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=thymeleaf&logoColor=white)
 
 
 <h3 align="left">Bases de Datos</h3>
