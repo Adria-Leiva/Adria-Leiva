@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?&logo=springboot&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?&logo=thymeleaf&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 
 
 <h3 align="left">Bases de Datos</h3>
